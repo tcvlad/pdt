@@ -59,7 +59,7 @@ nav ul li a:hover {
 
 
 .caption{
-   margin-top: 10vw;
+   margin-top: 5vw;
    color: black;
    text-align: center;
    font-weight: bold;
@@ -84,7 +84,6 @@ nav ul li a:hover {
    /* padding: 10px; */
    min-height: 100vh;
    text-align: center;
-   vertical-align: bottom;
 }
 
 
@@ -92,7 +91,7 @@ nav ul li a:hover {
    padding: 0 5vw;
    margin: auto;
    font-size: .75vw;
-   width: 50%;
+   width: 70%;
 
 }
 
@@ -103,7 +102,6 @@ nav ul li a:hover {
 .name1, .name2, .name3, .name4, .name5, .name6, 
 .name7, .name8, .name9, .name10, .name11, .name12{
    margin-top: 0vw;
-   
 }
 
 .position1, .position2, .position3, .position4, .position5, .position6,
@@ -116,9 +114,22 @@ nav ul li a:hover {
 
 .pic1, .pic2, .pic3, .pic4, .pic5, .pic6, .pic7, .pic8,
 .pic9, .pic10, .pic11, .pic12, .pic13, .pic14, .pic15, .pic16,
-.pic17, .pic18, .pic19, .pic20{
-   
+.pic17, .pic18, .pic19, .pic20{   
    width: 85%;
    object-fit: cover;
-   height: 10vw;
+   height: 15vw;
+}
+
+.caption2{
+   font-size: 1vw;
+   text-align: center;
+}
+
+.column7, .column8, .column9, .column10, .column11, .column12{
+   float: left;
+   width: 16.6666666667%;
+   color: #007FFF;
+   /* padding: 10px; */
+   min-height: 160vh;
+   text-align: center;
 }

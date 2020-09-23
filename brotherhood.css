@@ -46,7 +46,7 @@ nav ul li a {
    width: 7vw;
 }
 nav ul li:first-child {
-   margin-right:  auto;
+   margin-right:auto;
 }
 
 nav ul li a.logo {
@@ -62,8 +62,7 @@ nav ul li a:hover {
    width: 100%;
    min-height: 100vh; 
    min-width: 100%;
-   
-  }
+}
 
 .background > * {
    z-index: 10;
