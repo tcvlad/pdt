@@ -63,9 +63,13 @@ nav ul li a:hover {
    min-height: 100vh; 
    min-width: 100%;
 }
+.background{
+   width: 100%;
+}
 
 .background > * {
    z-index: 10;
+   width: 100%;
 }
 
 .caption{
